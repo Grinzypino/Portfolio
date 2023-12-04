@@ -39,7 +39,7 @@ const Home = () =>{
                 ind={24}/>
                 </h1>
                 <h2> Front-end Developer / ReactJS Expert / Pen Ultimate Year @ IIT BHU</h2>
-                <Link to='/contact' className='button'>CONTACT ME</Link>
+                <Link to='/contact' className='button'>CONTACT ME NOW</Link>
 
             </div>
             <Logo/>
