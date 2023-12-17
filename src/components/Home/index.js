@@ -40,6 +40,9 @@ const Home = () =>{
                 </h1>
                 <h2> Front-end Developer / ReactJS Expert / Pen Ultimate Year @ IIT BHU</h2>
                 <Link to='/contact' className='button'>CONTACT ME</Link>
+                
+                <Link to='https://drive.google.com/file/d/1HCH670_BRU2SU1yk_5Kzt3v6hVHv3ys_/view?usp=drive_link' className='button-cv'>CV / Resume</Link>
+                
 
             </div>
             <Logo/>
